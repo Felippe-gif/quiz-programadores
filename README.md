@@ -1,6 +1,19 @@
-Quiz de Programação - Página Web
-Descrição do Projeto
+<h1 align="center">QUIZ DE PROGRAMAÇÃO</h1>
 
-Este projeto consiste em uma página web de quiz voltada para programadores, desenvolvida utilizando HTML e CSS. O objetivo é testar conhecimentos básicos de programação por meio de perguntas interativas.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
+</p>
 
-A página foi estruturada com HTML para organizar o conteúdo, incluindo títulos, perguntas, opções de resposta e campos de formulário. O CSS foi aplicado para criar um visual moderno e agradável, com elementos centralizados, inputs personalizados, botões estilizados, fontes adequadas e um background temático. Tudo isso proporciona uma experiência de usuário mais intuitiva e atrativa.
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+
+## 💻 Projeto
+
+Este projeto é uma página web de quiz para programadores, criada para testar conhecimentos básicos de programação de forma interativa. A página utiliza HTML para estruturar o conteúdo e CSS para estilização, garantindo uma experiência visual moderna e agradável.
+
+---
