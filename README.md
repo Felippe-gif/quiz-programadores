@@ -1,4 +1,4 @@
-<h1 align="center">QUIZ DE PROGRAMAÇÃO</h1>
+<h1 align="center">ELETROSHOP</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,6 +14,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto é uma página web de quiz para programadores, criada para testar conhecimentos básicos de programação de forma interativa. A página utiliza HTML para estruturar o conteúdo e CSS para estilização, garantindo uma experiência visual moderna e agradável.
+A **EletroShop** é uma landing page de uma loja fictícia de eletrônicos, criada com o objetivo de praticar os fundamentos de **HTML e CSS**.  
+
+O projeto apresenta uma interface moderna e tecnológica, com:
+- Header com logo e menu de navegação  
+- Seção principal destacando a marca  
+- Botões estilizados para navegação  
+- Layout responsivo e organizado  
+- Fundo com gradiente animado para dar mais vida ao visual  
+
+Essa landing page foi desenvolvida como parte do meu aprendizado em **desenvolvimento front-end**, focando em estruturação, alinhamento de elementos e estilização visual.
 
 ---
+
+📌 Projeto desenvolvido para fins de estudo.
+
